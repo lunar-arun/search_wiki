@@ -1,3 +1,11 @@
+### Wikipedia Search App with Entity Recognation and Part of Speect Annotation
+
+![alt text](Capture1.PNG)
+
+![alt text](Capture2.PNG)
+
+
+
 # Instructions to Edit and Run the App Locally
 
 This repository contains code for an app. Follow the steps below to edit and run the app on your local machine.
